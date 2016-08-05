@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\workEC\NaverOAuthSample\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="602b9a5a760e61cd57fde8cad8eea89bc76eacbd">
+        <dex dex="C:\workEC\NaverOAuthSample\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5d829a6c57e6ad2a69bba0aaca7cb5be2fd30f1b\classes.dex" />
+    </item>
+    <item
+        jar="C:\workEC\NaverOAuthSample\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="db37ea4ec336f9b02310340552c7d48b36c50464">
+        <dex dex="C:\workEC\NaverOAuthSample\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_08747b7024a515e17c15bfa843f9d722db3311d7\classes.dex" />
+    </item>
+    <item
+        jar="C:\workEC\NaverOAuthSample\libs\naver-oauth-login-4.1.4.1-with-sources.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5c821232c173c623e74271c6efd65517e6a10060">
+        <dex dex="C:\workEC\NaverOAuthSample\build\intermediates\transforms\dex\debug\folders\1000\2\naver-oauth-login-4.1.4.1-with-sources_0d823fec988e5a90f891b9b61d66190ca2298e4e\classes.dex" />
+    </item>
+
+</items>

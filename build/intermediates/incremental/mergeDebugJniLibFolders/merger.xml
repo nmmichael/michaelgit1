@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\workEC\NaverOAuthSample\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\workEC\NaverOAuthSample\build-types\debug\jniLibs"/></dataSet></merger>

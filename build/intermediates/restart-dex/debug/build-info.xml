@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xhdpi"
+    format="7"
+    timestamp="764251978455000"
+    token="4194672234557040912" >
+
+    <task
+        name="javac"
+        duration="328" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="63" />
+    <task
+        name="verifier"
+        duration="19" />
+
+    <artifact
+        location="C:\workEC\NaverOAuthSample\build\outputs\apk\NaverOAuthSample-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="764251978455000" >
+        <artifact
+            location="C:\workEC\NaverOAuthSample\build\outputs\apk\NaverOAuthSample-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
